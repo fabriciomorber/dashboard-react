@@ -12,3 +12,4 @@
 - [Theme Ui](https://theme-ui.com/)
 - [Framer Motion](https://motion.dev/)
 - [Emotion](https://emotion.sh/docs/introduction)
+- [Apex Charts](https://apexcharts.com/)
