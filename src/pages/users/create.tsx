@@ -1,4 +1,13 @@
-import {Box, Button, Divider, Flex, Heading, HStack, SimpleGrid, VStack} from "@chakra-ui/react"
+import {
+  Box,
+  Button,
+  Divider,
+  Flex,
+  Heading,
+  HStack,
+  SimpleGrid,
+  VStack
+} from "@chakra-ui/react"
 
 import { Header } from "@/src/components/Header"
 import { Sidebar } from "@/src/components/Sidebar"
