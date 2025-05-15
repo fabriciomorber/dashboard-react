@@ -56,7 +56,7 @@ export default function UserList() {
                   <Checkbox colorScheme="pink" />
                 </Th>
                 <Th>Usuário</Th>
-                {isWideVersion && <Th>Data de cadastro</Th>}
+                { isWideVersion && <Th>Data de cadastro</Th> }
                 <Th w="8"></Th>
               </Tr>
             </Thead>
@@ -71,7 +71,7 @@ export default function UserList() {
                     <Text fontSize="sm" color="gray.300">fabmorber@gmail.com</Text>
                   </Box>
                 </Td>
-                {isWideVersion && <Td>15 de Maio, 2025</Td>}
+                { isWideVersion && <Td>15 de Maio, 2025</Td> }
                 <Td>
                   <Button
                     as="a"
@@ -94,7 +94,7 @@ export default function UserList() {
                     <Text fontSize="sm" color="gray.300">fabmorber@gmail.com</Text>
                   </Box>
                 </Td>
-                {isWideVersion && <Td>15 de Maio, 2025</Td>}
+                { isWideVersion && <Td>15 de Maio, 2025</Td> }
                 <Td>
                   <Button
                     as="a"
@@ -117,7 +117,7 @@ export default function UserList() {
                     <Text fontSize="sm" color="gray.300">fabmorber@gmail.com</Text>
                   </Box>
                 </Td>
-                {isWideVersion && <Td>15 de Maio, 2025</Td>}
+                { isWideVersion && <Td>15 de Maio, 2025</Td> }
                 <Td>
                   <Button
                     as="a"
